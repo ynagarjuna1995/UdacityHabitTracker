@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UdacityHabitTracker</string>
+    <string name="insert_test_data">INSERT TEST DATA</string>
+    <string name="delete_test_data">Delete Test Data</string>
+    <string name="delete_test_database">Delete Test Database</string>
+    <string name="MainScreen_Exp_text">Click on Option Menu on top \n Following Actions can be Performed \n1.Create the Database and insert the test data\n2.Delete the entered test data\n3.Delete the Database file which remove .db file</string>
+</resources>
